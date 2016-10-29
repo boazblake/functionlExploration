@@ -8,6 +8,7 @@
     "dev": "npm install && webpack-dev-server --devtool eval --progress --colors --content-base public --port 5431 --hot --inline"
   },
   "repository": {
+    "url": "https://github.com/DrBoolean/classroom-coding.git",
     "type": "git"
   },
   "author": "blonsdorf",
